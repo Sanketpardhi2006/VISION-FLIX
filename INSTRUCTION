@@ -1,1 +1,39 @@
 
+muskuraiye   aap ka project complete h ------> 😎😍👨‍🎓👨‍🎓👨‍🎓
+
+# VISION-FLIX😎
+
+
+
+
+
+**VISION-FLIX** ek modern **movie aur TV show streaming platform** hai, inspired by Netflix. Ye project users ko **movies aur shows browse, search, aur watch** karne ka interactive interface provide karta hai.
+
+---
+
+## 🔥 Features
+
+- **Responsive Design:** Desktop aur mobile devices dono ke liye optimized.
+- **Browse & Search:** Movies aur TV shows easily search aur filter kar sakte hain.
+- **Movie Details:** Har movie/show ke liye description, rating, genre aur trailer link.
+- **Watchlist/Favorites:** Users apne favorite movies add kar sakte hain.
+- **Modern Tech Stack:**  
+  - Frontend: React, Vite  
+  - Backend: Node.js, Express  
+  - Database: MongoDB  
+
+---
+
+## 💻 Screenshots
+
+![Home Page](screenshots/homepage.png)
+![Movie Details](screenshots/movie-details.png)
+*Note: Screenshots folder ko project me add karna.
+
+---
+
+## ⚙ Installation
+
+1. Repository clone karo:
+```bash
+git clone https://github.com/Sanketpardhi2006/VISION-FLIX.git
